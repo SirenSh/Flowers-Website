@@ -4,7 +4,7 @@ body{
     background-size: cover;
 }
 
-h1,p{
+h1,h2,h3,p{
     text-align: center;
     margin-top: 30px;
 }
@@ -34,4 +34,11 @@ img{
 
 .animalPhoto{
     margin: 0 auto;
+}
+
+.contactTable{
+    border: 3px solid black;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
